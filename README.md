@@ -16,13 +16,14 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 # Requirements 🛠️
-   •	image classification.
+
    •	Keras
    •	Matplotlib
    •	Scikit-learn
    •	Panda
    •	PIL
-
+   •	Image classification.
+   
 # Summary
 
 In this Python project with source code, we have successfully classified the traffic signs classifier with 95% accuracy and also visualized how our accuracy and loss changes with time, which is pretty good from a simple CNN model.   
