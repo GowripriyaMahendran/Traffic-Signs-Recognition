@@ -1,5 +1,6 @@
 # Traffic-Signs-Recognition🚦
-![image](https://github.com/GowripriyaMahendran/Traffic-Signs-Recognition/assets/140893570/dd77efcc-5a0a-4acc-84df-239a16ad40e5)
+![Screenshot (646)](https://github.com/GowripriyaMahendran/Traffic-Signs-Recognition/assets/140893570/3f60ebfa-0537-488c-b28f-400ae2afc994)
+
 
 
 You must have heard about the self-driving cars in which the passenger can fully depend on the car for traveling. But to achieve level 5 autonomous, it is necessary for vehicles to understand and follow all traffic rules.
